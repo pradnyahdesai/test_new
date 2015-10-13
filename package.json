@@ -1,7 +1,7 @@
 {
   "name": "weather-test-apilab-oct-pd",
   "version": "0.0.1",
-  "description": "Out of the box I include scaffolding apiproxy, Node.js, and Gruntfile to build your app.",
+  "description": "Out of the box I include scaffolding apiproxy, Node.js, and Gruntfile to build your new application.",
   "main": "index.js",
   "scripts": {
     "test": "grunt mochaTest -env=test"
